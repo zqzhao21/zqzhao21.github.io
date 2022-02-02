@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhiqiang Zhao / PhD"
+title                    : "Zhiqiang Zhao"
 title_separator          : "-"
 name                     : &name "Zhiqiang Zhao"
 description              : &description "personal description"
